@@ -7,9 +7,9 @@
 ## 介绍
 本仓库用于存放**TalkUp-LLM**（基于ChatGLM-6B）进行微调的大语言模型
 
-[(ChatGLM-6B)](https://github.com/THUDM/ChatGLM-6B) 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。
+[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。
 
-页面设计基于 [Chatgpt-Demo)](https://github.com/anse-app/chatgpt-demo)
+页面设计基于 [Chatgpt-Demo](https://github.com/anse-app/chatgpt-demo)
 
 为达成智能教育的目标，本项目利用自然语言处理技术复现微调并训练符合英语课标要求的**大型语言模型**、导入包含英文课本英文实际对话的数据库、设计语法纠错与发音纠正算法，并利用数据挖掘与机器学习算法实现学生个性化学习，而开发的一款英语口语在线练习平台。
 
