@@ -1,0 +1,661 @@
+[
+    {"content": "Yes, it was really fun!", "summary": "What did you like best"},
+    {"content": "I loved the races! They were really interesting to watch. How fantastic the dragon boat teams were!", "summary": "Yes! And look at the colors of the boats. How pretty they were!"},
+    {"content": "I agree! But I guess it was a little too crowded.", "summary": "I don’t know…I kind of like to have more people around. It makes things more exciting."},
+    {"content": "That’s true. Oh, and I really liked eating zongzi.", "summary": "Oh, me too! The sweet ones are my favorite."},
+    {"content": "I wonder if they’ll have the races again next year.", "summary": "Of course! They have them every year."},
+    {"content": "Then I believe that I’ll be back again next year to watch the races!", "summary": "Me, too!"},
+    {"content": "What did you do on your vacation, Wu Ming", "summary": "I visited my aunt and uncle in Hong Kong."},
+    {"content": "Wow! So what did you do", "summary": "Well, we ate out a lot. I believe that we  ate at least five meals a day! How delicious the food is! I’ve put on five pounds!"},
+    {"content": "Haha! Yes, the food in Hong Kong is delicious. What else did you do", "summary": "Shopping, of course. Hong Kong is a great place for shopping! I spent so much money."},
+    {"content": "So what was the best part of the trip", "summary": "Oh, the Dragon Boat Festival for sure. They had teams from all over the world!"},
+    {"content": "I’m planning a trip to Hong Kong next year. I wonder whether June is a good time.", "summary": "Yes, if you want to see the boat races. But it’s quite hot in June. That’s one thing I didn’t like."},
+    {"content": "Oh, I don’t mind hot weather.", "summary": "OK, then I think that June would be a perfect time for you to visit."},
+    {"content": "Hey Jane, what do you know about Halloween", "summary": "Oh, it’s a popular festival in North America."},
+    {"content": "We don’t really celebrate it in China. I know that it’s in October, right", "summary": "Yes, October 31st. It’s a scary festival, but I think it’s fun!"},
+    {"content": "What do people do on that day", "summary": "Many people make their houses look scary. They may turn off the lights and light candles. They sometimes also put things like spiders and ghosts around the doors and windows."},
+    {"content": "Wow, that sounds quite scary!", "summary": "It’s not that bad. Even little kids dress up as ghosts or black cats. They can also dress up as fun things like cartoon characters. Some parents join in the fun by dressing up, too!"},
+    {"content": "Do parents take their children around the neighborhood to ask for candies and treats", "summary": "Yeah. Kids say“Trick or treat!”at every house. This means that if you don’t give them a treat, they’ll play a trick on you!"},
+    {"content": "It sounds like a really fun festival! I wonder if it’ll ever become popular in China.", "summary": ""},
+    {"content": "Excuse me, could you tell me where I can buy some stamps", "summary": "Yes. There’s a post office on Center Street."},
+    {"content": "Oh, could you tell me how to get to Center Street", "summary": "Sure. You see that bank there"},
+    {"content": "Hmm…oh, yes.", "summary": "Just go past the bank and then turn right. The post office is on the right, next to the library."},
+    {"content": "Thanks a lot!", "summary": ""},
+  
+    {
+          "content": "Excuse me, do you know where I can get a dictionary",
+          "summary": "Sure. There’s a bookstore on Main Street."
+    },
+    {
+          "content": "Oh, could you please tell me how to get there",
+          "summary": "Yes. Go along Center Street and then turn left on Main Street. Then you will see the bookstore on the other side of the street."
+    },
+    {
+          "content": "Thanks! Do you know when the bookstore closes today",
+          "summary": "I think it closes at 7:00 p.m. today."
+    },
+    {
+          "content": "Excuse me, can you tell me where I can buy some medicine",
+          "summary": "Yes, there’s a supermarket in this shopping center."
+    },
+        {
+          "content": "Do you know how to go there",
+          "summary": "Yes. Go to the second floor and then…then turn left. Let’s see…Then go past the bookstore. And umm…the supermarket is between the flower store and the bookstore. You should be able to get medicine there."
+        },
+        {
+          "content": "OK, great. Oh, and one more thing. Do you know when this shopping center closes tonight",
+          "summary": "I’m not sure, but you can ask for information over there."
+        },
+        {
+          "content": "Excuse me, can you tell me where I can buy some medicine",
+          "summary": "Yes, there’s a supermarket in this shopping center."
+        },
+        {
+          "content": "Do you know how to go there",
+          "summary": "Yes. Go to the second floor and then…then turn left. Let’s see…Then go past the bookstore. And umm…the supermarket is between the flower store and the bookstore. You should be able to get medicine there."
+        },
+        {
+          "content": "OK, great. Oh, and one more thing. Do you know when this shopping center closes tonight",
+          "summary": "I’m not sure, but you can ask for information over there."
+        },
+        {
+          "content": "Could you tell me where there’s a good place to eat",
+          "summary": "Of course. There are a lot of good restaurants in Sunville. What kind of food are you looking for"
+        },
+        {
+          "content": "I’d like fresh vegetables.",
+          "summary": "I’d try Green Land. They have delicious salads."
+        },
+        {
+          "content": "Do you know if there are any public restrooms around here",
+          "summary": "Yes. You’ll find some at the corner of Market and Middle Streets."
+        },
+        {
+          "content": "Umm…are they clean",
+          "summary": "Oh, yes. They’re very clean."
+        },
+        {
+          "content": "Could you tell me if there is a good museum in Sunville",
+          "summary": "Well, we have several. What kind of museums do you like—History Science A children’s museum"
+        },
+        {
+          "content": "What about history I like history museums. They’re fascinating.",
+          "summary": "Science We always go to science museums. I want to go to a children’s museum. They’re more fun."
+        },
+        {
+          "content": "Well, I’m too old for a children’s museum. Why don’t we go to an art museum",
+          "summary": "Why don’t you go to the computer museum There are a lot of fun things for children there. You can learn all about the history of computers, as well as learn about science."
+        },
+        {
+          "content": "That’s a great idea! Let’s go to the computer museum.",
+          "summary": "..."
+        },
+        {
+          "content": "Could you tell me where there’s a good place to eat",
+          "summary": "Of course. There are a lot of good restaurants in Sunville. What kind of food are you looking for"
+        },
+        {
+          "content": "I’d like fresh vegetables.",
+          "summary": "I’d try Green Land. They have delicious salads."
+        },
+        {
+          "content": "Do you know if there are any public restrooms around here",
+          "summary": "Yes. You’ll find some at the corner of Market and Middle Streets."
+        },
+        {
+          "content": "Umm…are they clean",
+          "summary": "Oh, yes. They’re very clean."
+        }
+            {
+              "content": "Could you tell me if there is a good museum in Sunville",
+              "summary": "Well, we have several. What kind of museums do you like—History Science A children’s museum"
+            },
+            {
+              "content": "What about history I like history museums. They’re fascinating.",
+              "summary": "Science We always go to science museums. I want to go to a children’s museum. They’re more fun."
+            },
+            {
+              "content": "Well, I’m too old for a children’s museum. Why don’t we go to an art museum",
+              "summary": "Why don’t you go to the computer museum There are a lot of fun things for children there. You can learn all about the history of computers, as well as learn about science."
+            },
+            {
+              "content": "That’s a great idea! Let’s go to the computer museum.",
+              "summary": "..."
+            },
+            {
+              "content": "Mario, is that you",
+              "summary": "Yeah, it is. It’s Bob! Hey guys, it’s Bob! I haven’t seen you for four years!"
+            },
+            {
+              "content": "Yeah. I’m here with my parents. We’re visiting for a couple of days. Wow, Mario, you look different! You used to be short, didn’t you",
+              "summary": "Yes, I did. Now I’m tall. And so are you!"
+            },
+            {
+              "content": "That’s true. And you used to wear glasses.",
+              "summary": "..."
+            },
+            {
+              "content": "Hey, Amy, it’s great to see you.",
+              "summary": "Hi, Bob. How are you"
+            },
+            {
+              "content": "Fine. Wow, you’ve changed!",
+              "summary": "Really How"
+            },
+            {
+              "content": "You used to have short hair.",
+              "summary": "You remember that Yes, I did."
+            },
+            {
+              "content": "And you used to be really tall!",
+              "summary": "Not anymore. You’re taller than me now, Bob."
+            },
+            {
+              "content": "Hiya, Bob.",
+              "summary": "Hi, Tina. You’ve changed, too."
+            },
+            {
+              "content": "Oh, yeah",
+              "summary": "You have blonde hair!"
+            },
+            {
+              "content": "Yeah, it used to be red, didn’t it",
+              "summary": "And it’s straight!"
+            },
+            {
+              "content": "Yeah, it used to be curly.",
+              "summary": "..."
+            },
+            {
+              "content": "Hey, Steve! Over here! Don’t you remember me",
+              "summary": "Oh, wow! You’re Paula, aren’t you"
+            },
+            {
+              "content": "That’s right. We were in the same science class during Grade 8.",
+              "summary": "Yes, now I remember. You used to be really quiet, didn’t you I remember you were always silent in class."
+            },
+            {
+              "content": "Yeah. I wasn’t very outgoing．I was never brave enough to ask the teachers any questions!",
+              "summary": "Well, but you were always friendly. And you got a better grade in science than I did, haha. And I remember you were really good in music class, too. Wait a minute! Did you use to play the piano"
+            },
+            {
+              "content": "Yes, I did. But now I’m more interested in sports. I play soccer almost every day, and I’m on a swim team. But I still play the piano from time to time.",
+              "summary": "Wow, you’re so active! People sure change."
+            },
+            {
+              "content": "Hey, Steve! Over here! Don’t you remember me",
+              "summary": "Oh, wow! You’re Paula, aren’t you"
+            },
+            {
+              "content": "That’s right. We were in the same science class during Grade 8.",
+              "summary": "Yes, now I remember. You used to be really quiet, didn’t you I remember you were always silent in class."
+            },
+            {
+              "content": "Yeah. I wasn’t very outgoing．I was never brave enough to ask the teachers any questions!",
+              "summary": "Well, but you were always friendly. And you got a better grade in science than I did, haha. And I remember you were really good in music class, too. Wait a minute! Did you use to play the piano"
+            },
+            {
+              "content": "Yes, I did. But now I’m more interested in sports. I play soccer almost every day, and I’m on a swim team. But I still play the piano from time to time.",
+              "summary": "Wow, you’re so active! People sure change."
+            }
+            
+                {
+                  "content": "My six-year-old brother started school this week.",
+                  "summary": "Oh, that’s good. Life was great when I was six."
+                },
+                {
+                  "content": "Really? Why?",
+                  "summary": "Oh, school was really easy."
+                },
+                {
+                  "content": "Not for me. I didn’t use to like tests.",
+                  "summary": "But the tests in primary school were easy!"
+                },
+                {
+                  "content": "Now I don’t worry about tests, but I really used to be very nervous about them.",
+                  "summary": "Well, yes, they weren’t too difficult. But I guess I wasn’t used to them yet."
+                },
+                {
+                  "content": "I think I still like high school more than primary school.",
+                  "summary": "But we used to play every day after school. Now we just study all the time."
+                },
+                {
+                  "content": "Yeah, but we used to have to wear the school uniform.",
+                  "summary": "Now we can wear whatever we like."
+                },
+                {
+                  "content": "I don’t mind wearing a school uniform. I don’t like thinking about what to wear every day!",
+                  "summary": "I do remember one bad thing about primary school though. I used to hate P.E. class. Now I love it."
+                },
+                {
+                  "content": "Oh, me, too!",
+                  "summary": "..."
+                },
+                {
+                  "content": "Hi, Anita. I bought three shirts for 29 dollars yesterday!",
+                  "summary": "Oh, really? What are they made of though? Sometimes the cheap ones are made of materials that don’t feel very good."
+                },
+                {
+                  "content": "A hundred percent cotton. They’re nice and soft, and they were made in America.",
+                  "summary": "Oh, OK. By the way, where did you buy those chopsticks? They’re really cool!"
+                },
+                {
+                  "content": "Oh, I got them in Korea. They’re nice, aren’t they?",
+                  "summary": "Yeah. Chopsticks are usually made of wood. I’ve never seen steel ones before."
+                },
+                {
+                  "content": "Oh, steel chopsticks are popular in Korea. Hey, do you think this ring looks OK?",
+                  "summary": "Hmm…yes, I think it’s quite pretty. Is it made of silver?"
+                },
+                {
+                  "content": "Yes, and it was made in Thailand. I’ll give it to my best friend for her birthday.",
+                  "summary": "Oh, I’m sure she’ll love it."
+                },
+                {
+                  "content": "Hey Marcus, have you heard about the art and science fair?",
+                  "summary": "You mean the one just outside the science museum?"
+                },
+                {
+                  "content": "Yeah, that’s the one. The school notice board says that all students are invited to attend for free! Our school is paying for it!",
+                  "summary": "Wow, that’s great!"
+                },
+                {
+                  "content": "I went there yesterday. Did you see anything cool?",
+                  "summary": "Of course! All the works there were made by university students."
+                },
+                {
+                  "content": "What did you see?",
+                  "summary": "I saw a huge model plane. It’s made of used wood and glass. I also saw a really beautiful painting. It’s made from grass, leaves and flowers."
+                },
+                {
+                  "content": "Oh, yeah, the fair is about environmental protection and recycling, right?",
+                  "summary": "Yes, and the students came up with some really interesting and creative ideas."
+                },
+                {
+                  "content": "Hey Marcus, have you heard about the art and science fair?",
+                  "summary": "You mean the one just outside the science museum?"
+                },
+                {
+                  "content": "Yeah, that’s the one. The school notice board says that all students are invited to attend for free! Our school is paying for it!",
+                  "summary": "Wow, that’s great!"
+                },
+                {
+                  "content": "I went there yesterday. Did you see anything cool?",
+                  "summary": "Of course! All the works there were made by university students."
+                },
+                {
+                  "content": "What did you see?",
+                  "summary": "I saw a huge model plane. It’s made of used wood and glass. I also saw a really beautiful painting. It’s made from grass, leaves and flowers."
+                },
+                {
+                  "content": "Oh, yeah, the fair is about environmental protection and recycling, right?",
+                  "summary": "Yes, and the students came up with some really interesting and creative ideas."
+                }
+
+                    {
+                      "content": "Hey, Zheng Yun!",
+                      "summary": "Hi, Laura."
+                    },
+                    {
+                      "content": "How was your vacation?",
+                      "summary": "It was great! I went to Weifang in Shandong."
+                    },
+                    {
+                      "content": "That’s the city famous for kites, right?",
+                      "summary": "Yes. There’s an international kite festival there every April. That’s why I went there."
+                    },
+                    {
+                      "content": "How interesting! What happens at the festival?",
+                      "summary": "People from all over the world compete in kite flying. There are also competitions for the best kites."
+                    },
+                    {
+                      "content": "Were the kites nice?",
+                      "summary": "They were beautiful. They were made of different things like silk or paper. Some were painted with colorful drawings."
+                    },
+                    {
+                      "content": "Sounds like you really enjoyed it. I never thought that something as simple as kite flying could be so exciting.",
+                      "summary": "Yes, it was really fun to see which kite could fly the highest."
+                    },
+                    {
+                      "content": "I think I want to learn to fly a kite, too!",
+                      "summary": "..."
+                    },
+                    {
+                      "content": "Was your life very difficult when you were a kid?",
+                      "summary": "Oh, not really. Why?"
+                    },
+                    {
+                      "content": "Well, you didn’t have modern inventions like a telephone, right?",
+                      "summary": "Of course we did! How old do you think I am? The telephone was invented in 1876. You need to take a history class, Alice!"
+                    },
+                    {
+                      "content": "Haha! How about cars? They weren’t invented yet, were they?",
+                      "summary": "Yes, they were. Cars were invented in 1885. My family had a car."
+                    },
+                    {
+                      "content": "Well, did you have a TV?",
+                      "summary": "No, we couldn’t afford one. They were expensive in those days. The TV was invented around 1927, I think."
+                    },
+                    {
+                      "content": "Well, I know that you didn’t have a computer because we learned in school that personal computers were invented in 1971.",
+                      "summary": "You’re right. But I have one now!"
+                    },
+                    {
+                      "content": "Hi, Carol. Wow, what are those?",
+                      "summary": "Hello, Alex. Oh, these are some of the interesting inventions that I’m writing about for my English homework."
+                    },
+                    {
+                      "content": "I see…What’s that, then?",
+                      "summary": "They’re shoes with lights. You use them for seeing in the dark when you get up at night."
+                    },
+                    {
+                      "content": "Oh, that’s a cool idea! I always hit my toe on something on the way to the bathroom at night.",
+                      "summary": "Next is a special ice-cream scoop. This is my favorite invention. It runs on electricity and becomes hot."
+                    },
+                    {
+                      "content": "I know what it’s for! It’s used for serving really cold ice-cream.",
+                      "summary": "Yes, that’s right! The last invention I’m going to write about is shoes with special heels. You can move the heels up and down."
+                    }
+                    
+                        {
+                          "content": "Hey, Zheng Yun!",
+                          "summary": "Hi, Laura."
+                        },
+                        {
+                          "content": "How was your vacation?",
+                          "summary": "It was great! I went to Weifang in Shandong."
+                        },
+                        {
+                          "content": "That’s the city famous for kites, right?",
+                          "summary": "Yes. There’s an international kite festival there every April. That’s why I went there."
+                        },
+                        {
+                          "content": "How interesting! What happens at the festival?",
+                          "summary": "People from all over the world compete in kite flying. There are also competitions for the best kites."
+                        },
+                        {
+                          "content": "Were the kites nice?",
+                          "summary": "They were beautiful. They were made of different things like silk or paper. Some were painted with colorful drawings."
+                        },
+                        {
+                          "content": "Sounds like you really enjoyed it. I never thought that something as simple as kite flying could be so exciting.",
+                          "summary": "Yes, it was really fun to see which kite could fly the highest."
+                        },
+                        {
+                          "content": "I think I want to learn to fly a kite, too!",
+                          "summary": "That's a great idea!"
+                        },
+                        {
+                          "content": "Was your life very difficult when you were a kid?",
+                          "summary": "Not really. Why?"
+                        },
+                        {
+                          "content": "Well, you didn’t have modern inventions like a telephone, right?",
+                          "summary": "Actually, we did have telephones. The telephone was invented in 1876."
+                        },
+                        {
+                          "content": "Haha! How about cars? They weren’t invented yet, were they?",
+                          "summary": "Cars were actually invented in 1885, so we did have cars."
+                        },
+                        {
+                          "content": "Well, did you have a TV?",
+                          "summary": "No, we didn’t have TVs back then. The TV was invented around 1927."
+                        },
+                        {
+                          "content": "Well, I know that you didn’t have a computer because we learned in school that personal computers were invented in 1971.",
+                          "summary": "You’re right. Computers became popular much later."
+                        },
+                        {
+                          "content": "Hi, Carol. Wow, what are those?",
+                          "summary": "Hello, Alex. These are some of the interesting inventions I’m writing about for my English homework."
+                        },
+                        {
+                          "content": "I see… What’s that, then?",
+                          "summary": "They’re shoes with lights. People use them for seeing in the dark when they get up at night."
+                        },
+                        {
+                          "content": "Oh, that’s a cool idea! I always hit my toe on something on the way to the bathroom at night.",
+                          "summary": "It could be really helpful!"
+                        },
+                        {
+                          "content": "Next is a special ice-cream scoop. This is my favorite invention. It runs on electricity and becomes hot.",
+                          "summary": "That sounds amazing! It must make scooping ice cream much easier."
+                        },
+                        {
+                          "content": "I know what it’s for! It’s used for serving really cold ice cream.",
+                          "summary": "Yes, exactly! It helps to keep the ice cream cold while serving."
+                        },
+                        {
+                          "content": "Yes, that’s right! The last invention I’m going to write about is shoes with special heels. You can move the heels up and down.",
+                          "summary": "That sounds innovative! It allows people to adjust the heel height based on their preferences."
+                        },
+                        {
+                          "content": "What are they used for?",
+                          "summary": "Well, you can change the style of your shoes. You can raise the heels if you are going to a party or lower them if you are just going out for shopping."
+                        },
+                        {
+                          "content": "Hey, did you know that potato chips were invented by mistake?",
+                          "summary": "Really? How did that happen?"
+                        },
+                        {
+                          "content": "Well, here on the bag it says that they were invented by a cook called George Crum.",
+                          "summary": "Interesting! When did this happen?"
+                        },
+                        {
+                          "content": "Oh, it was back in 1853.",
+                          "summary": "That's a long time ago!"
+                        },
+                        {
+                          "content": "Well, one day, a customer came into the restaurant where George worked. He ordered a plate of fried potatoes. When the potatoes came, he said they were cut too thick and sent them back to the kitchen.",
+                          "summary": "I see. What did George do next?"
+                        },
+                        {
+                          "content": "Well, George was angry, so he cut the potatoes really, really thin, and he cooked them for a long time until they were crispy. And he put lots of salt on them so they were really salty. He thought the customer would hate them.",
+                          "summary": "That's an interesting response!"
+                        },
+                        {
+                          "content": "And the customer loved them and asked for more. He told the other customers about them, and soon everyone was ordering thinly cut, crispy, salty potato chips.",
+                          "summary": "That's amazing! It became a popular snack!"
+                        },
+                        {
+                          "content": "And we’re still eating them today. What a cool story!",
+                          "summary": "Yes, potato chips have become a beloved snack for many people."
+                        },
+                        {
+                          "content": "Mom, can I go to the shopping center with John? He just got his driver’s license.",
+                          "summary": "No, I don't think it's a good idea. Sixteen-year-olds may not have enough experience to drive safely."
+                        },
+                        {
+                          "content": "But Gaby’s getting her ears pierced at the shopping center, and I want to watch.",
+                          "summary": "I understand, but I don't think it's appropriate for someone your age to get their ears pierced."
+                        },
+                        {
+                          "content": "I agree, but it’s fun to watch. Can I take the bus then?",
+                          "summary": "Yes, taking the bus is a safer option."
+                        },
+                        {
+                          "content": "Great! I want to buy a new skirt, too.",
+                          "summary": "Sure, let's go together. What kind of skirt are you looking for?"
+                        },
+                        {
+                          "content": "Aww, Mom. I’m not a child. I think teenagers should be allowed to choose their own clothes.",
+                          "summary": "I understand, but as a parent, I want to make sure you get something appropriate and of good quality."
+                        },
+                        {
+                          "content": "Hi, Molly. Where’s your brother Larry? I thought he was joining us.",
+                          "summary": "Hi, Kathy. I’m sorry. Larry can’t join us after all. He is working late tonight."
+                        },
+                        {
+                          "content": "Oh, Larry’s working late again?",
+                          "summary": "Yes, unfortunately."
+                        }
+                        {
+                            "content": "Hey, Zheng Yun!",
+                            "summary": "Hi, Laura."
+                          },
+                          {
+                            "content": "How was your vacation?",
+                            "summary": "It was great! I went to Weifang in Shandong."
+                          },
+                          {
+                            "content": "That’s the city famous for kites, right?",
+                            "summary": "Yes. There’s an international kite festival there every April. That’s why I went there."
+                          },
+                          {
+                            "content": "What happens at the festival?",
+                            "summary": "People from all over the world compete in kite flying. There are also competitions for the best kites."
+                          },
+                          {
+                            "content": "Were the kites nice?",
+                            "summary": "They were beautiful. They were made of different things like silk or paper. Some were painted with colorful drawings."
+                          },
+                          {
+                            "content": "Sounds like you really enjoyed it. I never thought that something as simple as kite flying could be so exciting.",
+                            "summary": "Yes, it was really fun to see which kite could fly the highest. I think I want to learn to fly a kite, too!"
+                          },
+                          {
+                            "content": "Hi, Carol.",
+                            "summary": "Hi, Alex."
+                          },
+                          {
+                            "content": "Wow, what are those?",
+                            "summary": "Oh, these are some of the interesting inventions that I’m writing about for my English homework."
+                          },
+                          {
+                            "content": "I see… What’s that, then?",
+                            "summary": "They’re shoes with lights. People use them for seeing in the dark when you get up at night."
+                          },
+                          {
+                            "content": "Oh, that’s a cool idea! I always hit my toe on something on the way to the bathroom at night.",
+                            "summary": "Next is a special ice-cream scoop. This is my favorite invention. It runs on electricity and becomes hot."
+                          },
+                          {
+                            "content": "I know what it’s for! It’s used for serving really cold ice-cream.",
+                            "summary": "Yes, that’s right! The last invention I’m going to write about is shoes with special heels. You can move the heels up and down."
+                          },
+                          {
+                            "content": "Well, you can change the style of your shoes. You can raise the heels if you are going to a party or lower them if you are just going out for shopping.",
+                            "summary": "What are they used for?"
+                          },
+                          {
+                            "content": "Hey, did you know that potato chips were invented by mistake?",
+                            "summary": "Really? What do you mean?"
+                          },
+                          {
+                            "content": "Well, here on the bag it says that they were invented by a cook called George Crum.",
+                            "summary": "When was that? So, why was it an accident?"
+                          },
+                          {
+                            "content": "Oh, it was back in 1853. Well, one day, a customer came into the restaurant where George worked. He ordered a plate of fried potatoes. When the potatoes came, he said they were cut too thick and sent them back to the kitchen.",
+                            "summary": "What happened next?"
+                          },
+                          {
+                            "content": "Well, George was angry, so he cut the potatoes really, really thin, and he cooked them for a long time until they were crispy. And he put lots of salt on them so they were really salty. He thought the customer would hate them.",
+                            "summary": "And?"
+                          },
+                          {
+                            "content": "And the customer loved them and asked for more. He told the other customers about them, and soon everyone was ordering thinly cut, crispy, salty potato chips.",
+                            "summary": "And we’re still eating them today. What a cool story!"
+                          },
+                          {
+                            "content": "Mom, can I go to the shopping center with John? He just got his driver’s license.",
+                            "summary": "No way! I don’t think sixteen-year-olds should be allowed to drive. They aren’t serious enough. I’m worried about your safety."
+                          },
+                          {
+                            "content": "But Gaby’s getting her ears pierced at the shopping center, and I want to watch.",
+                            "summary": "Sixteen-year-olds shouldn’t be allowed to get their ears pierced either. They’re too young."
+                          },
+                          {
+                            "content": "I agree, but it’s fun to watch. Can I take the bus then?",
+                            "summary": "Well, OK. Great! I want to buy a new skirt, too."
+                          },
+                          {
+                            "content": "What kind of skirt? Maybe I should go with you.",
+                            "summary": "Aww, Mom. I’m not a child. I think teenagers should be allowed to choose their own clothes."
+                          },
+                          {
+                            "content": "Well, I just want to make sure you get something nice.",
+                            "summary": "Hi, Molly. Where’s your brother Larry? I thought he was joining us."
+                          },
+                          {
+                            "content": "Hi, Kathy. I’m sorry. Larry can’t join us after all. He is working late tonight.",
+                            "summary": "Oh, Larry’s working late again?"
+                          },
+                          {
+                            "content": "Yeah, he is. I see…What’s that?",
+                            "summary": "Where? There’s something in the sky."
+                          },
+                          {
+                            "content": "It could be a plane.",
+                            "summary": "No, it can’t be a plane. It’s too big. It must be a UFO."
+                          },
+                          {
+                            "content": "A UFO? What’s going on?",
+                            "summary": "Look, now the UFO is landing… And there’s something strange getting out. It must be an alien."
+                          },
+                          {
+                            "content": "And the alien is running after the man! I must be dreaming.",
+                            "summary": "Maybe we should call the police. Hey, wait a minute. What’s that?"
+                          },
+                          {
+                            "content": "Where? Over there.",
+                            "summary": "It’s a woman with a camera. She could be from the TV news."
+                          },
+                          {
+                            "content": "No, look at all those other people. They’re actors. Oh! They must be making a movie.",
+                            "summary": "Whose volleyball is this?"
+                          },
+                          {
+                            "content": "It must be Carla’s. She loves volleyball.",
+                            "summary": "How about this toy truck?"
+                          },
+                          {
+                            "content": "Hmm.…that toy truck must belong to Jane’s little brother. He was the only little kid at the picnic.",
+                            "summary": "And the magazine must belong to Deng Wen. He loves rabbits."
+                          },
+                          {
+                            "content": "Oh, look, someone left a book.",
+                            "summary": "That book must be Mary’s. J.K. Rowling is her favorite writer."
+                          },
+                          {
+                            "content": "OK…and how about this CD?",
+                            "summary": "Hmm…The CD must belong to Grace. She always listens to pop music."
+                          },
+                          {
+                            "content": "I don’t know. Look, here’s a school T-shirt.",
+                            "summary": "Well then, the person must go to our school. Oh! Here is a hair band, so the person can’t be a boy."
+                          },
+                          {
+                            "content": "It could be Mei’s hair band. She has long hair.",
+                            "summary": "Or the hair band might belong to Linda. She was at the picnic, wasn’t she?"
+                          
+                          
+                          },
+                          {
+                            "content": "Yes, she was. But then the schoolbag could belong to Rita. She’s always forgetting things.",
+                            "summary": "Oh, look! Tennis balls."
+                          },
+                          {
+                            "content": "Then it must be Linda’s schoolbag. She has long hair and she’s on the tennis team.",
+                            "summary": "You’re right!"
+                          }
+                        
+                    
+                
+                
+              
+
+
+
+
+
+
+]
+        
+    
+
+
+
+
+
+
