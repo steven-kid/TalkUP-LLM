@@ -134,4 +134,4 @@ model/
 .idea
 
 # Ptuning output
-.ptuning/output
+./ptuning/output
