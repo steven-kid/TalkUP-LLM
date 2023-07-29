@@ -132,3 +132,6 @@ dmypy.json
 # Mac system file
 model/
 .idea
+
+# Ptuning output
+.ptuning/output

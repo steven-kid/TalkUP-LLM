@@ -3,13 +3,12 @@ LR=2e-2
 
 CUDA_VISIBLE_DEVICES=0 python3 main.py \
     --do_train \
-    # 在下面这行改训练数据？
-    --train_file AdvertiseGen/train.json \ 
-    --validation_file AdvertiseGen/dev.json \
+    --train_file TalkUp/train.json \
+    --validation_file TalkUp/dev.json \
     --prompt_column content \
     --response_column summary \
     --overwrite_cache \
-    --model_name_or_path THUDM/chatglm-6b \
+    --model_name_or_path ../../chatglm-6b \
     --output_dir output/adgen-chatglm-6b-pt-$PRE_SEQ_LEN-$LR \
     --overwrite_output_dir \
     --max_source_length 64 \
